@@ -14,10 +14,6 @@ The client, a beverage distributor, wanted to monitor:
 - Performance of different beverage brands
 - Total revenue, units sold, and price per unit
 
-## 💡 Tools Used
-
-- Power BI (Data Modeling,Visualizations)
-- Map Visualization (Geographical Analysis)
 
 ## 📈 Dashboard Features
 
@@ -35,12 +31,10 @@ The Power BI report consists of:
    - Average Price per Unit
 
 4. **Revenue by State (Map)**  
-   → Interactive map highlighting state-wise sales performance.
 
 ## 🖥️ Dashboard Screenshot
 
-![Beverage Sales Dashboard](images/beverage_sales_dashboard.png)
-
+![Beverage Sales Dashboard](images/Screenshot 2025-08-05 200332.png)
 
 
 
