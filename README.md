@@ -34,7 +34,6 @@ The Power BI report consists of:
 
 ## 🖥️ Dashboard Screenshot
 
-![Beverage Sales Dashboard](images/Screenshot 2025-08-05 200332.png)
-
+![Beverage Sales Dashboard](images/screenshot_2025_08_05_200332.png)
 
 
