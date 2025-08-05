@@ -34,7 +34,7 @@ The Power BI report consists of:
 
 ## 🖥️ Dashboard Screenshot
 
-(Screenshot%202025-08-05%20200332.png)
+![Screenshot](Screenshot%202025-08-05%20200332.png)
 
 
 
